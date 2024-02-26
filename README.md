@@ -38,4 +38,4 @@
 
 ### Get Doc - `GetDoc.py`
 - cd into the test folder of your cloned repository and run the following command:
-    ```python GetDoc.py <path-to-save-indexed-files> <'id' or 'docno'> <value-of-id/docno>```
+- ```python GetDoc.py <path-to-save-indexed-files> <"id" or "docno"> <value-of-id/docno>```
