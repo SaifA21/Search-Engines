@@ -1,0 +1,4 @@
+docno: LA041090-0001
+internal id: 3
+date: April 10, 1990
+headline: N/A

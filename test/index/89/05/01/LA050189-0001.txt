@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> LA050189-0001 </DOCNO>
+<DOCID> 300 </DOCID>
+<DATE>
+<P>
+May 1, 1989, Thursday, Home Edition 
+</P>
+</DATE>
+<GRAPHIC>
+<P>
+doc3Graphic.
+</P>
+<P>
+of
+</P>
+</GRAPHIC>
+</DOC>

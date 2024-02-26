@@ -1,0 +1,22 @@
+401
+graphic
+402
+graphic text of 
+403
+oneword
+404
+headline
+405
+doc0!
+406
+text2, p2
+407
+multiple          words 
+408
+text2@p2 text p2
+409
+of
+410
+G.r.A.p.H.I.C
+411
+doc3Graphic abc

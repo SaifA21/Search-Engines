@@ -1,0 +1,1 @@
+{"headline1": 0, "of": 1, "doc0": 2, "headline2": 3, "graphic": 4, "text": 5, "oneword": 6, "headline": 7, "2": 8, "this": 9, "is": 10, "multiple": 11, "words": 12, "two": 13, "p1": 14, "text2": 15, "p2": 16, "doc3graphic": 17, "textp3": 18, "doc2": 19, "doc4": 20}

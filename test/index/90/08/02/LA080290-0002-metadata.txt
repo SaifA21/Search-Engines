@@ -1,0 +1,4 @@
+docno: LA080290-0002
+internal id: 1
+date: August 2, 1990
+headline:  headline 2 this is multiple words two words of

@@ -1,0 +1,4 @@
+docno: LA080290-0001
+internal id: 0
+date: August 2, 1990
+headline:  !headline1 of doc0 headline2 of doc0

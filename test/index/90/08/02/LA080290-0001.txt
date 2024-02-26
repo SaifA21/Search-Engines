@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> LA080290-0001 </DOCNO>
+<DOCID> 100 </DOCID>
+<DATE>
+<P>
+August 2, 1990, Thursday, Home Edition 
+</P>
+</DATE>
+<HEADLINE>
+<P>
+!headline1 of doc0
+</P>
+<P>
+headline2 of doc0
+</P>
+</HEADLINE>
+<GRAPHIC>
+<P>
+graphic text of doc0!
+</P>
+<P>
+oneword
+</P>
+</GRAPHIC>
+</DOC>

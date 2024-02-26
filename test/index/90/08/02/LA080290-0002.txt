@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> LA080290-0002 </DOCNO>
+<DOCID> 200 </DOCID>
+<DATE>
+<P>
+August 2, 1990, Thursday, Home Edition 
+</P>
+</DATE>
+<HEADLINE>
+<P>
+headline 2 this is multiple words 
+</P>
+<P>
+two words of
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+text 2 p1
+</P>
+<P>
+text2@p2
+</P>
+</TEXT>
+</DOC>

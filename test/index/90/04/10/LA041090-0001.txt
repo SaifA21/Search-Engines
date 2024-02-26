@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> LA041090-0001 </DOCNO>
+<DOCID> 400 </DOCID>
+<DATE>
+<P>
+April 10, 1990, Thursday, Home Edition 
+</P>
+</DATE>
+<TEXT>
+<P>
+textp3 of doc2
+</P>
+</TEXT>
+</DOC>

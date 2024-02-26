@@ -1,0 +1,4 @@
+docno: LA050189-0001
+internal id: 2
+date: May 1, 1989
+headline: N/A
